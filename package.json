@@ -3,6 +3,9 @@
     "name": "startbootstrap-scrolling-nav",
     "version": "4.1.1",
     "description": "A smooth scrolling navigation HTML template built with Bootstrap",
+    "scripts": {
+        "gulp": "gulp dev"
+    },
     "keywords": [
         "css",
         "sass",
