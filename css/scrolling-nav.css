@@ -1,0 +1,74 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+
+:not(biggerAndWhite ) {
+font-family: 'Special Elite', cursive;
+}
+
+header {
+  padding: 154px 0 100px;
+  position: relative;
+  height: 500px;
+  
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+
+.biggerAndWhite{
+  font-size: 95px;
+  color: brown;
+  line-height: 100px;
+  background-color:;
+  width: 800px;
+  margin: auto;
+  font-family: 'Satisfy', cursive;
+
+}  
+.hhh{
+   color: grey;
+   font-family: 'Satisfy', cursive;
+   font-size: 1.2rem;
+   margin-top: 1rem;
+
+ }
+
+ .header_jim{
+   width: 640px;
+   height: 640px;
+ }
+
+ .bg-myself {
+background-image: url('../img/header04.jpg');
+background-size: cover;
+ }
+ 
+ .package-jpg {
+image: url('../img/bag.jpg')
+ }
+ 
+ .text-secondary{
+
+ }
+
+ .middle{
+   position: absolute;
+  top: 84%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+
+  }
+  .lead{
+    font-family: 'Titillium Web', sans-serif;
+  }
